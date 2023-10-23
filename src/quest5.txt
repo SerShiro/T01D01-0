@@ -1,0 +1,6 @@
+1)cd src/door_management_files/door_configuration
+2)vim door_1.conf
+3)Нажимаем i для перехода в режим insert
+4)Меняем строчку STATUS: CLOSED -> STATUS: OPEN
+5)Нажимаем esc для выхода из insert режима
+6)Нажимаем : и пишем wq для выхода и сохранения изменений
